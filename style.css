@@ -1,0 +1,15 @@
+/*Navbar*/
+#agenda_main, #infoFormWindow_content, div.topnav__menu, #smscTopContainer, .smsc-topnav, nav.topnav, .js-btn-home.topnav__btn.topnav__btn--push-right, .js-btn-profile, .topnav__title, .topnav__btn-wrapper, .js-btn-home, .js-btn-messages, .js-btn-logout {
+    background-color: #444;
+    color: white;
+}
+
+/*Loginscreen*/
+.login-app__top, .login-app__right, .login-app__title.login-app__title--separator{
+    background: #333;
+    color: white;
+}
+
+.login-app__school-logo{
+    visibility: hidden;
+}
