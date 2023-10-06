@@ -3,4 +3,5 @@
 
 ## Coming soon:
 - Full darkmode (except: FAQ, Language options, Profile options)
-- A secret :0
+- JavaScript bookmarklet for client-side CSS injection
+- A Chrome extension?
