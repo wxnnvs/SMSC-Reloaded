@@ -10,4 +10,4 @@
 - A Chrome extension?
 
 ### Credits
-- Merlijn/ToxicMushroom -> rewrote almost all CSS
+- @ToxicMushroom -> rewrote almost all CSS
