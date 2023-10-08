@@ -2,8 +2,8 @@
 **S**top **M**aking **S**hitty **C**SS
 
 ## Installation
-1. Drag [this link](https://github.com/wxnnvs/SMSC-Reloaded/raw/main/bookmarklet) to your bookmark balk
-2. Go to *yourschool*.smartschool.be
+1. Drag [this link]() to your bookmark balk
+2. Go to <*yourschool*>.smartschool.be
 3. Click the bookmark
 4. Done
 
