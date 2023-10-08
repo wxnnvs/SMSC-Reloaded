@@ -7,6 +7,8 @@
 3. Click the bookmark
 4. Done
 
+**NOTE:** You'll have to press the boorkmarklet every time you load a page :)
+
 ## Coming soon:
 - Fix missing darkmode on pages
 - A Chrome extension?
