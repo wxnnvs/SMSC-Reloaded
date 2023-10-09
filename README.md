@@ -12,9 +12,9 @@
 
 ### Chrome Extension
 1. Download/clone this repo to your device
-2. Navigate to `manage extensions` in your browser
+2. Navigate to **more (3 dots) -> extensions** in your browser
 3. Enable developer mode
-4. Click `add unpacked extension` and select the `extension` folder in this repo
+4. Click **add unpacked extension** and select the `extension` folder in this repo
 5. Toggle darkmode using Ctrl+K
 
 ## Coming soon:
