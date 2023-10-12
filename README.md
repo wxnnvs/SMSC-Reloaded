@@ -23,3 +23,4 @@
 
 ### Credits
 - @ToxicMushroom -> rewrote almost all CSS
+- @wxnnvs -> wrote Chrome extension and CSS injection
