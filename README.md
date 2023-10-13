@@ -9,7 +9,7 @@
 4. Click **add unpacked extension** and select the `extension` folder in this repo
 5. Delete the plugin to disable it
 
-### Bookmarklet
+### Bookmarklet (not recommended)
 1. Copy the content of the [bookmarklet](https://github.com/wxnnvs/SMSC-Reloaded/raw/main/bookmarklet) file into a new bookmark
 2. Go to <*yourschool*>.smartschool.be
 3. Click the bookmark
@@ -22,5 +22,5 @@
 - Fix missing darkmode on pages
 
 ### Credits
-- @ToxicMushroom -> rewrote almost all CSS
-- @wxnnvs -> wrote Chrome extension and CSS injection
+- [@ToxicMushroom](https://github.com/ToxicMushroom) -> rewrote almost all CSS
+- [@wxnnvs](https://github.com/wxnnvs) (me) -> wrote Chrome extension and CSS injection
