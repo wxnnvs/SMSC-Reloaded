@@ -94,7 +94,7 @@ div.homepage__block__content p {
 }
 
 #resizeHandleHorizontal {
-    background-image: url("https://melijn.com/data/images/smartschool/arrow_left_right_white_24x24.svg");
+    /*background-image: url("https://melijn.com/data/images/smartschool/arrow_left_right_white_24x24.svg");*/
 }
 
 .modern-ui .toolbar::before {
@@ -507,7 +507,7 @@ body.modern-ui .homepage__search>button.smscButton {
 }
 
 #resizeHandle {
-    background-image: url("https://i.melijn.me/data/smartschool/arrow_left_right_white_24x24.svg") !important;
+    /*background-image: url("https://i.melijn.me/data/smartschool/arrow_left_right_white_24x24.svg") !important;*/
     background-repeat: no-repeat;
     border: none;
 }
@@ -634,12 +634,12 @@ form.form input.float-label__input {
 
 .close {
     margin: 4px 4px 0 4px;
-    background-image: url("https://i.melijn.me/data/smartschool/close-button.png");
+    /*background-image: url("https://i.melijn.me/data/smartschool/close-button.png");*/
     transition: background-image 0.5s ease-in-out;
 }
 
 .close:hover {
-    background-image: url("https://i.melijn.me/data/smartschool/close-button-hover.png");
+    /*  background-image: url("https://i.melijn.me/data/smartschool/close-button-hover.png");*/
 }
 
 #favoriteName,
@@ -664,22 +664,22 @@ form.form input.float-label__input {
 }
 
 .login-app .login-app__school-logo {
-    background-image: url(https://www.tsmmechelen.be/sites/default/files/tsm_allerlei/logo_wit_tsm.png) !important;
+    /*background-image: url(https://www.tsmmechelen.be/sites/default/files/tsm_allerlei/logo_wit_tsm.png) !important;*/
 }
 
 /*popup Menu's */
 .momentInfo.dr {
-    background-image: url("https://i.melijn.me/data/smartschool/info_down_right.png") !important;
+    /*background-image: url("https://i.melijn.me/data/smartschool/info_down_right.png") !important;*/
 }
 
 .momentInfo.ur {
-    background-image: url("https://i.melijn.me/data/smartschool/info_up_right.png") !important;
+    /*background-image: url("https://i.melijn.me/data/smartschool/info_up_right.png") !important;*/
 }
 
 .momentInfo.dl {
-    background-image: url("https://i.melijn.me/data/smartschool/info_down_left.png") !important;
+    /*background-image: url("https://i.melijn.me/data/smartschool/info_down_left.png") !important;*/
 }
 
 .momentInfo.ul {
-    background-image: url("https://i.melijn.me/data/smartschool/info_up_left.png") !important;
+    /*background-image: url("https://i.melijn.me/data/smartschool/info_up_left.png") !important;*/
 }
