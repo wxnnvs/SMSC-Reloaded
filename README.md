@@ -18,8 +18,8 @@
 **NOTE:** You'll have to press the boorkmarklet every time you load a page :)
 
 ## Coming soon:
+- Upload extension to the webstore
 - Fix missing darkmode on pages
-- A Chrome extension?
 
 ### Credits
 - @ToxicMushroom -> rewrote almost all CSS
