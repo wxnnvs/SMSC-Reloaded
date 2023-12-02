@@ -7,9 +7,9 @@
 2. Navigate to **more (3 dots) -> extensions -> manage extensions** in your browser
 3. Enable developer mode
 4. Click **add unpacked extension** and select the `extension` folder in this repo
-5. Delete the plugin to disable it
+5. Delete the extension to disable it
 
-### Bookmarklet (not recommended)
+### Bookmarklet (Deprecated -> use extension instead)
 1. Copy the content of the [bookmarklet](https://github.com/wxnnvs/SMSC-Reloaded/raw/main/bookmarklet) file into a new bookmark
 2. Go to <*yourschool*>.smartschool.be
 3. Click the bookmark

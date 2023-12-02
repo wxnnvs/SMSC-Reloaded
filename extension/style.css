@@ -2,6 +2,27 @@ body.modern-ui {
     background-color: #36393e;
 }
 
+/*Compose message*/
+.searchInputField, #searchDivContent, .searchDivResult, #toInput, #toccInput, #tobccInput, #subjectInput, .compose_subject  {
+    background-color:black;
+    color: white;
+}
+
+.msg_bg, .mainContainer tbody, .compose-options, #tab_sjabloon, #tab_attach {
+    background: #26292e;
+    color: white;
+}
+
+ .fileinfocorrection {
+    background-color: #26292e;
+    padding: 20px;
+    border-bottom: 1px solid white;
+}
+
+.correctioninfo{
+    background: #26292e;
+}
+
 .highcharts-label-box.highcharts-tooltip-box {
     fill: #36393e !important;
 }
@@ -134,7 +155,7 @@ body.modern-ui .smscMain .smsc-container--right {
 }
 
 .smsc-topnav .topnav__menuitem:hover {
-    background-color: hsla(216, 4%, 74%, .1);
+    background-color: hsla(216, 6%, 33%, 1) !important;
     color: #f6f6f7 !important;
 }
 
